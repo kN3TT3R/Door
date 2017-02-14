@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Door
 //
-//  Created by VDAB Cursist on 10/02/17.
+//  Created by Kenneth Debruyn on 10/02/17.
 //  Copyright © 2017 kN3TT3R. All rights reserved.
 //
 
